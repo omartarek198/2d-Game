@@ -1,0 +1,35 @@
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.exe
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.deps.json
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.runtimeconfig.json
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.runtimeconfig.dev.json
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.dll
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.pdb
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csprojAssemblyReference.cache
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.AssemblyInfo.cs
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.dll
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.pdb
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.genruntimeconfig.cache
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Hero.resources
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Form2.resources
+C:\Users\506174\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Form3.resources
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.exe
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.deps.json
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.runtimeconfig.json
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.runtimeconfig.dev.json
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.dll
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\bin\Debug\netcoreapp3.1\WinFormsApp11.pdb
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csproj.AssemblyReference.cache
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Hero.resources
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Form2.resources
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.Form3.resources
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.AssemblyInfo.cs
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.dll
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.pdb
+C:\Users\GAMING\Desktop\old desktop\FilesToTransfer\FilesToTransfer\repos\multi assignments and project\FinalProjectMulto\WinFormsApp11\WinFormsApp11\obj\Debug\netcoreapp3.1\WinFormsApp11.genruntimeconfig.cache
