@@ -28,5 +28,10 @@ namespace WinFormsApp11
             obj1.Show();
             obj1.SetControls(obj3.GetKeys());
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("you really need instructions?");
+        }
     }
 }
